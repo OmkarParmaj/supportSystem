@@ -8,6 +8,7 @@ This is a Support System for end user web application, allows end user to create
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Secreenshots](#screenshots)
 
 
 ## About
@@ -83,3 +84,11 @@ This is a Support System for end user web application, allows end user to create
 ## Usage
 
 1) This web application can be use in government websites, travell website, ecommerce website to solve the probelm and answer.
+
+
+## Screenshots
+
+![admin dashboard](https://github.com/OmkarParmaj/supportSystem/assets/163232986/360d1591-7948-497d-bf51-cf2f1dc50bcd)
+![techsupport dashboard](https://github.com/OmkarParmaj/supportSystem/assets/163232986/5af2629d-5b87-4e38-90da-9722b0fe1d32)
+![rise ticket section](https://github.com/OmkarParmaj/supportSystem/assets/163232986/da5bc977-ec74-4c5e-a729-bdc10af46d43)
+![enduser dashboard](https://github.com/OmkarParmaj/supportSystem/assets/163232986/7f244fbc-ad34-4d6e-90a7-495498641070)
