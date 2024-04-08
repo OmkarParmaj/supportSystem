@@ -1,6 +1,6 @@
 # Support System for end user
 
-This is a Support System for end user web application, allows end user to create or rise ticket for there problems. There are three dashboard panels, end user, Tech support and Admin panel accordingly. ReactJs, expressjs and bootstrap are use for this project. 
+This is a Support System for end user web application, allows end user to create or rise ticket for there problems. There are three dashboard panels, end user, Tech support and Admin panel accordingly. ReactJs, expressjs and bootstrap are use for this project. I used React router dom, useState for state management. Axios for http requests.
 
 ## Table of Contents
 
